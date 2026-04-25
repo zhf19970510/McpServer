@@ -34,3 +34,4 @@ log/
 *.iml
 *.ipr
 */.DS_Store
+model-context-protocol
